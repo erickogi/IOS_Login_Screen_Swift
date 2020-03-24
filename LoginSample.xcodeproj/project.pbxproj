@@ -14,6 +14,7 @@
 		8447276B242A7FEA006899F7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8447276A242A7FEA006899F7 /* Assets.xcassets */; };
 		8447276E242A7FEA006899F7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8447276C242A7FEA006899F7 /* LaunchScreen.storyboard */; };
 		84472776242A8B58006899F7 /* DesignableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84472775242A8B58006899F7 /* DesignableView.swift */; };
+		84472778242AA2C1006899F7 /* UIViewController+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84472777242AA2C1006899F7 /* UIViewController+Extensions.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		8447276D242A7FEA006899F7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8447276F242A7FEA006899F7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		84472775242A8B58006899F7 /* DesignableView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DesignableView.swift; sourceTree = "<group>"; };
+		84472777242AA2C1006899F7 /* UIViewController+Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIViewController+Extensions.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				8447276C242A7FEA006899F7 /* LaunchScreen.storyboard */,
 				8447276F242A7FEA006899F7 /* Info.plist */,
 				84472775242A8B58006899F7 /* DesignableView.swift */,
+				84472777242AA2C1006899F7 /* UIViewController+Extensions.swift */,
 			);
 			path = LoginSample;
 			sourceTree = "<group>";
@@ -143,6 +146,7 @@
 			files = (
 				84472776242A8B58006899F7 /* DesignableView.swift in Sources */,
 				84472766242A7FE6006899F7 /* ViewController.swift in Sources */,
+				84472778242AA2C1006899F7 /* UIViewController+Extensions.swift in Sources */,
 				84472762242A7FE6006899F7 /* AppDelegate.swift in Sources */,
 				84472764242A7FE6006899F7 /* SceneDelegate.swift in Sources */,
 			);
